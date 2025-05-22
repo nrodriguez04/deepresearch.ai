@@ -100,18 +100,25 @@ Topic: “{user_input}”
 
 ✅ Real-time learning progress tracker
 
-## 💸 Monetization Strategy (Non-Intrusive)
-- Affiliate Links
-Embed affiliate links for Udemy, Coursera, Skillshare, Amazon, Bookshop, etc.
+## 💸 Monetization Strategy
 
-- Donation Option
-“Buy Me a Coffee” or Ko-fi button for voluntary contributions.
+Deep Research follows a sustainable **subscription-based model** to support ongoing development and access to premium features.
 
-- Freemium Extras (Optional)
-Future features like user profiles, Notion export, or auto-updating plans may be available as a low-cost premium tier.
+### 🔓 Free Tier
+- 3–5 AI-generated learning modules/month
+- Public access to course library
+- Basic resources (YouTube/text links)
 
-- Sponsorships (Optional)
-Feature paid creators or courses in modules (clearly marked), while maintaining quality and integrity.
+### 💎 Pro Tier (Subscription)
+- Unlimited module generation
+- Private course saving and syncing
+- GPT-4o integrations and advanced learning tools
+- Verified affiliate links and curated resources
+
+This ensures a balance between **accessibility for self-learners** and **long-term sustainability** of the project.
+
+Support options (like Buy Me a Coffee or affiliate links) may still be explored later to enhance the community and support free-tier growth.
+
 
 ## 🎯 Target Users
 - Self-learners and autodidacts
